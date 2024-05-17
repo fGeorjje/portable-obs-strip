@@ -1,7 +1,7 @@
 # portable-obs-strip
 
 Opinionated nodejs script to remove unneeded files from a portable [OBS Studio](https://github.com/obsproject/obs-studio) package. Developed for [
-OBS-Studio-30.1.2.zip](https://github.com/obsproject/obs-studio/releases/tag/30.1.2). *Shpo
+OBS-Studio-30.1.2.zip](https://github.com/obsproject/obs-studio/releases/tag/30.1.2).
 
 Launch with no arguments for a file or provide a folder as the single argument. Run this right before zipping your package.
 
