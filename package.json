@@ -1,0 +1,19 @@
+{
+  "name": "portable-obs-strip",
+  "version": "1.0.0",
+  "description": "Remove unneeded files from a portable OBS Studio package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgeorjje/portable-obs-strip.git"
+  },
+  "author": "Paul Schwandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgeorjje/portable-obs-strip/issues"
+  },
+  "homepage": "https://github.com/fgeorjje/portable-obs-strip#readme"
+}
