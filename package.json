@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fgeorjje/portable-obs-strip/issues"
   },
-  "homepage": "https://github.com/fgeorjje/portable-obs-strip#readme"
+  "homepage": "https://github.com/fgeorjje/portable-obs-strip#readme",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
 }
